@@ -1,5 +1,11 @@
 # Aurora — mises à jour
 
+> **⏸ Téléchargement suspendu quelques jours (15 septembre 2026).**
+> Windows Defender signale l'installeur comme un virus alors qu'il est sain : c'est une fausse
+> alerte de son analyse automatique, courante pour un programme neuf non signé électroniquement.
+> Sur VirusTotal, 4 antivirus sur 70 le signalent, aucun des grands noms, et le moteur de Microsoft
+> ne détecte rien. La correction a été demandée à Microsoft ; le fichier revient dès leur réponse.
+
 Aurora est un moniteur matériel pour Windows : températures, charge du processeur et de la carte
 graphique, ventilateurs, disques, réseau, FPS en jeu et lecteur multimédia, dans un tableau de bord.
 

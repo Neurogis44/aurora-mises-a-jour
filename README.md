@@ -1,8 +1,8 @@
 # Aurora — mises à jour
 
-> **Téléchargement rouvert en phase de test (18 septembre 2026).** Windows Defender avait signalé l'installeur à
-> tort ; ses dernières mises à jour ne le signalent plus. Si ton antivirus réagit quand même, ne force rien et
-> préviens Denis.
+> **Aurora 0.10.0 (18 septembre 2026)** : nouveau thème Carbone, débits réseau aussi en Mbit/s, numéro de version
+> visible. Si ton antivirus prétend que l'installeur est un virus, ne force rien et préviens Denis : c'est une
+> fausse alerte connue pour les programmes neufs non signés.
 
 Aurora est un moniteur matériel pour Windows : températures, charge du processeur et de la carte
 graphique, ventilateurs, disques, réseau, FPS en jeu et lecteur multimédia, dans un tableau de bord.

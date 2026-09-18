@@ -1,7 +1,7 @@
 # Aurora — mises à jour
 
-> **Aurora 0.10.0 (18 septembre 2026)** : nouveau thème Carbone, débits réseau aussi en Mbit/s, numéro de version
-> visible. Si ton antivirus prétend que l'installeur est un virus, ne force rien et préviens Denis : c'est une
+> **Aurora 0.11.0 (18 septembre 2026)** : place pour Aurora IA, l'assistant local de Denis (programme à part, non
+> inclus : sans lui, rien ne change). Version précédente, 0.10.0 : thème Carbone, débits en Mbit/s, numéro de version. Si ton antivirus prétend que l'installeur est un virus, ne force rien et préviens Denis : c'est une
 > fausse alerte connue pour les programmes neufs non signés.
 
 Aurora est un moniteur matériel pour Windows : températures, charge du processeur et de la carte

@@ -1,8 +1,11 @@
 # Aurora — mises à jour
 
-> **Aurora 0.12.0 (19 septembre 2026)** : Aurora IA (visage, souvenirs, bouton Démarrer). **0.11.0** : place pour Aurora IA, l'assistant local de Denis (programme à part, non
-> inclus : sans lui, rien ne change). Version précédente, 0.10.0 : thème Carbone, débits en Mbit/s, numéro de version. Si ton antivirus prétend que l'installeur est un virus, ne force rien et préviens Denis : c'est une
-> fausse alerte connue pour les programmes neufs non signés.
+> **Aurora 0.13.0 (19 septembre 2026)** : overlay de jeu à la carte (onglet Jeux) : coche ce qu'il affiche (FPS,
+> carte graphique, processeur, mémoire, mode d'alimentation, heure) et place-le en haut à gauche, au centre ou à droite
+> de l'écran. **0.12.0** : Aurora IA (visage, souvenirs, bouton Démarrer). **0.11.0** : place pour Aurora IA,
+> l'assistant local de Denis (programme à part, non inclus : sans lui, rien ne change). Si ton antivirus prétend que
+> l'installeur est un virus, ne force rien et préviens Denis : c'est une fausse alerte connue pour les programmes neufs
+> non signés.
 
 Aurora est un moniteur matériel pour Windows : températures, charge du processeur et de la carte
 graphique, ventilateurs, disques, réseau, FPS en jeu et lecteur multimédia, dans un tableau de bord.

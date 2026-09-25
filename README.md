@@ -1,9 +1,9 @@
 # Aurora — mises à jour
 
-> **Aurora 1.0.0 (24 septembre 2026)** : l'onglet **Santé** te dit en mots simples si ton PC va bien, la **machine à
-> remonter le temps** (onglet Changements) note ce qui change sur ton PC jour après jour, et l'onglet **Jeux** garde
-> chaque partie, voit le jeu qui ralentit et l'état du PC juste avant un gel ou un plantage. Et surtout : un tour
-> complet du logiciel, 51 points corrigés pour qu'Aurora marche sur le plus de PC possible.
+> **Aurora 1.0.1 (25 septembre 2026)** : tes **clés USB**, cartes SD et disques externes dans le panneau Disques
+> (place, vitesses, liaison USB, bouton Éjecter), **écrire au support** depuis les Réglages, avec la fiche de ton
+> matériel si tu le veux, et un **deuxième tour complet** : 34 défauts corrigés, dont les ventilateurs des cartes MSI
+> enfin rendus à la courbe du BIOS.
 > Le site : **https://auroraapp.ca**
 
 Aurora est un moniteur matériel pour Windows : températures, charge du processeur et de la carte
@@ -34,4 +34,5 @@ y compris comment vérifier l'empreinte du fichier téléchargé.
   connexion sortante automatique, et elle se coupe dans **Réglages → Démarrage et mises à jour**.
 - Les PC d'une même maison qui se suivent dans l'onglet « Mes PC » se passent les nouvelles versions,
   sans passer par Internet, et chacun vérifie la signature de l'installeur avant de le lancer.
-- Projet personnel, offert tel quel, sans garantie ni support. Contact : contact@auroraapp.ca
+- Projet personnel, offert tel quel et sans garantie. Pour m'écrire : dans Aurora, **Réglages → Support**, ou
+  contact@auroraapp.ca

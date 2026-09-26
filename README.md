@@ -1,9 +1,9 @@
 # Aurora — mises à jour
 
-> **Aurora 1.0.1 (25 septembre 2026)** : tes **clés USB**, cartes SD et disques externes dans le panneau Disques
-> (place, vitesses, liaison USB, bouton Éjecter), **écrire au support** depuis les Réglages, avec la fiche de ton
-> matériel si tu le veux, et un **deuxième tour complet** : 34 défauts corrigés, dont les ventilateurs des cartes MSI
-> enfin rendus à la courbe du BIOS.
+> **Aurora 1.0.2 (26 septembre 2026)** : **plusieurs comptes sur le même PC**. Chacun choisit s'il démarre avec
+> Windows, une seule Aurora commande les ventilateurs quand deux sessions sont ouvertes (celle de la personne devant
+> l'écran), la mémoire de santé est celle du PC, commune à tous, et l'Aurora d'un compte revient toute seule quand il
+> retrouve sa session.
 > Le site : **https://auroraapp.ca**
 
 Aurora est un moniteur matériel pour Windows : températures, charge du processeur et de la carte

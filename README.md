@@ -1,9 +1,9 @@
 # Aurora — mises à jour
 
-> **Aurora 1.0.3 (26 septembre 2026)** : **de nouvelles mesures, et ton PC au fil des semaines**. Le point chaud et
-> la mémoire de la carte graphique, tes barrettes, la mémoire engagée de Windows et le 12 V du bloc d'alimentation
-> suivi sous la charge ; des graphiques semaine après semaine dans l'onglet Santé ; un enregistreur de mesures qui
-> s'ouvre dans Excel ; et, à télécharger à part, **Aurora sur ton Stream Deck**.
+> **Aurora 1.0.4 (26 septembre 2026)** : **la vérification du montage, et une Aurora plus claire**. L'onglet Santé
+> voit un écran branché sur la carte mère ou réglé sous sa fréquence, et une carte graphique privée d'une partie de
+> ses lignes PCI Express ; toute l'application a été relue pour dire les choses plus simplement ; et le module
+> **Aurora sur ton Stream Deck** (1.0.1) n'a plus besoin du partage.
 > Le site : **https://auroraapp.ca**
 
 Aurora est un moniteur matériel pour Windows : températures, charge du processeur et de la carte

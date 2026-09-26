@@ -1,9 +1,9 @@
 # Aurora — mises à jour
 
-> **Aurora 1.0.2 (26 septembre 2026)** : **plusieurs comptes sur le même PC**. Chacun choisit s'il démarre avec
-> Windows, une seule Aurora commande les ventilateurs quand deux sessions sont ouvertes (celle de la personne devant
-> l'écran), la mémoire de santé est celle du PC, commune à tous, et l'Aurora d'un compte revient toute seule quand il
-> retrouve sa session.
+> **Aurora 1.0.3 (26 septembre 2026)** : **de nouvelles mesures, et ton PC au fil des semaines**. Le point chaud et
+> la mémoire de la carte graphique, tes barrettes, la mémoire engagée de Windows et le 12 V du bloc d'alimentation
+> suivi sous la charge ; des graphiques semaine après semaine dans l'onglet Santé ; un enregistreur de mesures qui
+> s'ouvre dans Excel ; et, à télécharger à part, **Aurora sur ton Stream Deck**.
 > Le site : **https://auroraapp.ca**
 
 Aurora est un moniteur matériel pour Windows : températures, charge du processeur et de la carte
@@ -13,7 +13,8 @@ et un bilan de santé qui dit ce qui cloche.
 Ce dépôt sert seulement à **diffuser les versions**. Il contient :
 
 - `version.json` : le numéro de la dernière version publiée, qu'Aurora consulte une fois par jour ;
-- les **Releases** : l'installeur `Aurora-Setup-<version>.exe` de chaque version, avec sa notice.
+- les **Releases** : l'installeur `Aurora-Setup-<version>.exe` de chaque version, avec sa notice ;
+- la Release **Aurora sur le Stream Deck** : le module `Aurora.streamDeckPlugin`, à télécharger à part.
 
 ## Installer ou mettre à jour
 

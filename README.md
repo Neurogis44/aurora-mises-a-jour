@@ -1,9 +1,9 @@
 # Aurora — mises à jour
 
-> **Aurora 1.0.5 (27 septembre 2026)** : **d'un PC à l'autre, et un speed test fidèle**. Envoie des fichiers
-> entre les PC de la maison directement dans Aurora (onglet Mes PC), chiffrés et sans passer par Internet ; le
-> speed test mesure sur quatre connexions à la fois ; les disques virtuels ne s'affichent plus, et Wallpaper Engine
-> ne passe plus pour un jeu. L'installeur montre maintenant la licence d'Aurora.
+> **Aurora 1.0.6 (27 septembre 2026)** : **ton ordi, tour ou portable**. La radiographie reconnaît les portables
+> et montre leur batterie ; chaque ventilateur peut porter un nom ; la pompe d'un watercooling est reconnue même
+> quand la carte mère ne la nomme pas, et jamais ralentie ; l'onglet Santé dit la vraie raison quand la
+> température du processeur manque (l'anti-triche FACEIT, par exemple).
 > Le site : **https://auroraapp.ca**
 
 Aurora est un moniteur matériel pour Windows : températures, charge du processeur et de la carte

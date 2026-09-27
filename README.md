@@ -1,9 +1,9 @@
 # Aurora — mises à jour
 
-> **Aurora 1.0.4 (26 septembre 2026)** : **la vérification du montage, et une Aurora plus claire**. L'onglet Santé
-> voit un écran branché sur la carte mère ou réglé sous sa fréquence, et une carte graphique privée d'une partie de
-> ses lignes PCI Express ; toute l'application a été relue pour dire les choses plus simplement ; et le module
-> **Aurora sur ton Stream Deck** (1.0.1) n'a plus besoin du partage.
+> **Aurora 1.0.5 (27 septembre 2026)** : **d'un PC à l'autre, et un speed test fidèle**. Envoie des fichiers
+> entre les PC de la maison directement dans Aurora (onglet Mes PC), chiffrés et sans passer par Internet ; le
+> speed test mesure sur quatre connexions à la fois ; les disques virtuels ne s'affichent plus, et Wallpaper Engine
+> ne passe plus pour un jeu. L'installeur montre maintenant la licence d'Aurora.
 > Le site : **https://auroraapp.ca**
 
 Aurora est un moniteur matériel pour Windows : températures, charge du processeur et de la carte
@@ -34,6 +34,13 @@ y compris comment vérifier l'empreinte du fichier téléchargé.
 - Aurora ne crée aucun compte et n'envoie aucune mesure : la vérification de version est sa seule
   connexion sortante automatique, et elle se coupe dans **Réglages → Démarrage et mises à jour**.
 - Les PC d'une même maison qui se suivent dans l'onglet « Mes PC » se passent les nouvelles versions,
-  sans passer par Internet, et chacun vérifie la signature de l'installeur avant de le lancer.
+  sans passer par Internet, et chacun vérifie la signature de l'installeur avant de le lancer. Ils peuvent
+  aussi s'envoyer des fichiers, de la même façon : chiffrés, sans passer par Internet.
 - Projet personnel, offert tel quel et sans garantie. Pour m'écrire : dans Aurora, **Réglages → Support**, ou
   contact@auroraapp.ca
+
+## Licence
+
+Aurora est gratuite, sous sa propre licence : tu peux l'utiliser partout, à la maison comme au travail, et
+partager son installeur tel quel, mais pas la vendre ni la modifier. Texte complet : [LICENSE](LICENSE), et
+https://auroraapp.ca/licence.

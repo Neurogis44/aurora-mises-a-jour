@@ -1,9 +1,9 @@
 # Aurora — mises à jour
 
-> **Aurora 1.0.6 (27 septembre 2026)** : **ton ordi, tour ou portable**. La radiographie reconnaît les portables
-> et montre leur batterie ; chaque ventilateur peut porter un nom ; la pompe d'un watercooling est reconnue même
-> quand la carte mère ne la nomme pas, et jamais ralentie ; l'onglet Santé dit la vraie raison quand la
-> température du processeur manque (l'anti-triche FACEIT, par exemple).
+> **Aurora 1.0.7 (1er octobre 2026)** : **mesuré, pas promis**. En jeu, l'overlay dit ce qui limite tes FPS (la
+> carte graphique, le processeur ou un bridage) ; l'onglet Changements mesure l'effet de chaque pilote, BIOS, mise à
+> jour ou programme au démarrage ; un nouvel onglet Windows règle seulement ce que tu coches, par les moyens
+> officiels de Windows, et remet tout d'un clic. Aussi : l'entretien de Windows, et les Ryzen X3D à deux CCD.
 > Le site : **https://auroraapp.ca**
 
 Aurora est un moniteur matériel pour Windows : températures, charge du processeur et de la carte
@@ -36,6 +36,9 @@ y compris comment vérifier l'empreinte du fichier téléchargé.
 - Les PC d'une même maison qui se suivent dans l'onglet « Mes PC » se passent les nouvelles versions,
   sans passer par Internet, et chacun vérifie la signature de l'installeur avant de le lancer. Ils peuvent
   aussi s'envoyer des fichiers, de la même façon : chiffrés, sans passer par Internet.
+- L'onglet Windows ne change que ce que tu coches, par les moyens officiels de Windows, et jamais ses protections
+  (Defender, pare-feu, contrôle de compte, mises à jour) : chaque réglage se remet d'un clic, et la désinstallation
+  remet tout.
 - Projet personnel, offert tel quel et sans garantie. Pour m'écrire : dans Aurora, **Réglages → Support**, ou
   contact@auroraapp.ca
 

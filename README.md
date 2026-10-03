@@ -1,12 +1,13 @@
 # Aurora — mises à jour
 
-> **Aurora 1.0.8 (2 octobre 2026)** : **relue de fond en comble**. Une version de correctifs : l'onglet Windows ne
-> montre que les réglages que ton Windows a vraiment (Windows 10 compris), respecte ceux qu'une règle impose et fait
-> le ménage plus prudemment ; « Windows est intact » seulement quand SFC est vraiment allé au bout ; les fréquences
-> d'écran et « Remettre » tiennent même après un plantage ou une panne de courant. Après une mise à jour, Aurora
-> présente ses nouveautés, une seule fois.
+> **Aurora 1.0.9 (3 octobre 2026)** : **les skins et un tableau de bord fluide**. Six skins dans l'ambiance des jeux
+> qu'on aime (Pixel, Escouade, Boulevard, Précision, Sortilège et Tempête), 3 $ chacun sur
+> **https://auroraapp.ca/skins**, s'installent en deux clics et habillent tout Aurora, jusqu'à l'overlay de jeu ; les
+> cinq thèmes restent gratuits. Le tableau de bord bouge à la cadence de l'écran et se met au repos pendant les
+> parties ; le 1 % bas en direct porte sur les 30 dernières secondes. La licence passe à la version 3.
 >
-> Depuis la 1.0.7 : ce qui limite tes FPS en jeu, l'effet de chaque changement et l'onglet Windows.
+> Depuis la 1.0.8 : l'onglet Windows relu de fond en comble. Depuis la 1.0.7 : ce qui limite tes FPS en jeu, l'effet
+> de chaque changement et l'onglet Windows.
 > Le site : **https://auroraapp.ca**
 
 Aurora est un moniteur matériel pour Windows : températures, charge du processeur et de la carte

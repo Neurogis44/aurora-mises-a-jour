@@ -1,13 +1,15 @@
 # Aurora — mises à jour
 
-> **Aurora 1.0.9 (3 octobre 2026)** : **les skins et un tableau de bord fluide**. Six skins dans l'ambiance des jeux
-> qu'on aime (Pixel, Escouade, Boulevard, Précision, Sortilège et Tempête), 3 $ chacun sur
-> **https://auroraapp.ca/skins**, s'installent en deux clics et habillent tout Aurora, jusqu'à l'overlay de jeu ; les
-> cinq thèmes restent gratuits. Le tableau de bord bouge à la cadence de l'écran et se met au repos pendant les
-> parties ; le 1 % bas en direct porte sur les 30 dernières secondes. La licence passe à la version 3.
+> **Aurora 1.0.10 (4 octobre 2026)** : **les mises à jour de Windows et le rapport pour ton technicien**. L'onglet
+> Windows dit ce qui attend, en mots simples, avec l'avis d'Aurora (conseillée, facultative, à ton rythme, à laisser)
+> et la page de Microsoft dans la langue de ton Windows ; l'onglet Santé t'avertit quand une mise à jour de sécurité
+> échoue ou traîne. Le rapport pour ton technicien prépare tout ce qu'il faut à qui t'aide à distance : rien de privé,
+> et c'est toi qui l'envoies. Le tableau de bord demande environ trois fois moins de travail à la carte graphique, et
+> trois nouveaux skins arrivent sur **https://auroraapp.ca/skins** : Kaboum, Chaufferie et Terminal. Aurora est
+> écrite en Rust, un langage moderne conçu pour la sécurité.
 >
-> Depuis la 1.0.8 : l'onglet Windows relu de fond en comble. Depuis la 1.0.7 : ce qui limite tes FPS en jeu, l'effet
-> de chaque changement et l'onglet Windows.
+> Depuis la 1.0.9 : les skins et un tableau de bord fluide. Depuis la 1.0.8 : l'onglet Windows relu de fond en comble.
+> Depuis la 1.0.7 : ce qui limite tes FPS en jeu, l'effet de chaque changement et l'onglet Windows.
 > Le site : **https://auroraapp.ca**
 
 Aurora est un moniteur matériel pour Windows : températures, charge du processeur et de la carte
@@ -26,7 +28,9 @@ Ce dépôt sert seulement à **diffuser les versions**. Il contient :
    et télécharge `Aurora-Setup-<version>.exe`.
 2. L'installeur est **signé électroniquement** : Windows affiche « Éditeur vérifié : Denis Desbiens ».
    Une version toute neuve peut encore déclencher SmartScreen les premiers jours : clique
-   **Informations complémentaires**, vérifie le nom de l'éditeur, puis **Exécuter quand même**.
+   **Informations complémentaires**, vérifie le nom de l'éditeur, puis **Exécuter quand même**. Au téléchargement,
+   Edge peut aussi dire que le fichier « n'est pas fréquemment téléchargé » : la marche à suivre, avec les vraies
+   fenêtres, est sur https://auroraapp.ca/#installer.
 3. L'installation demande les droits administrateur (nécessaires pour lire les capteurs) et
    installe au besoin Microsoft .NET 10 et le pilote PawnIO.
 

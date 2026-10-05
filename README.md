@@ -1,15 +1,13 @@
 # Aurora — mises à jour
 
-> **Aurora 1.0.10 (4 octobre 2026)** : **les mises à jour de Windows et le rapport pour ton technicien**. L'onglet
-> Windows dit ce qui attend, en mots simples, avec l'avis d'Aurora (conseillée, facultative, à ton rythme, à laisser)
-> et la page de Microsoft dans la langue de ton Windows ; l'onglet Santé t'avertit quand une mise à jour de sécurité
-> échoue ou traîne. Le rapport pour ton technicien prépare tout ce qu'il faut à qui t'aide à distance : rien de privé,
-> et c'est toi qui l'envoies. Le tableau de bord demande environ trois fois moins de travail à la carte graphique, et
-> trois nouveaux skins arrivent sur **https://auroraapp.ca/skins** : Kaboum, Chaufferie et Terminal. Aurora est
-> écrite en Rust, un langage moderne conçu pour la sécurité.
+> **Aurora 1.0.11 (4 octobre 2026)** : **faire de la place en toute sécurité**. Dans l'onglet Windows, sous
+> Entretien, Aurora trouve les copies exactes de tes fichiers, comparées octet pour octet : elle te propose la copie à
+> garder, c'est toi qui coches, et tout part à la corbeille, jamais effacé pour de bon. Peu de doublons ? Elle te
+> montre ce qui remplit vraiment ton disque, jusqu'aux jeux que tu n'as pas lancés depuis trois mois. L'onglet Windows
+> a maintenant trois sous-onglets : Réglages, Mises à jour, Entretien. La licence passe à la version 4.
 >
-> Depuis la 1.0.9 : les skins et un tableau de bord fluide. Depuis la 1.0.8 : l'onglet Windows relu de fond en comble.
-> Depuis la 1.0.7 : ce qui limite tes FPS en jeu, l'effet de chaque changement et l'onglet Windows.
+> Depuis la 1.0.10 : les mises à jour de Windows en clair et le rapport pour ton technicien. Depuis la 1.0.9 : les
+> skins et un tableau de bord fluide. Depuis la 1.0.8 : l'onglet Windows relu de fond en comble.
 > Le site : **https://auroraapp.ca**
 
 Aurora est un moniteur matériel pour Windows : températures, charge du processeur et de la carte
@@ -47,6 +45,8 @@ y compris comment vérifier l'empreinte du fichier téléchargé.
 - L'onglet Windows ne change que ce que tu coches, par les moyens officiels de Windows, et jamais ses protections
   (Defender, pare-feu, contrôle de compte, mises à jour) : chaque réglage se remet d'un clic, et la désinstallation
   remet tout.
+- La recherche des fichiers en double lit tes fichiers sur ton PC seulement, quand tu la lances : leurs noms ne vont
+  nulle part, et seulement ce que tu coches part à la corbeille.
 - Projet personnel, offert tel quel et sans garantie. Pour m'écrire : dans Aurora, **Réglages → Support**, ou
   contact@auroraapp.ca
 

@@ -1,13 +1,13 @@
 # Aurora — mises à jour
 
-> **Aurora 1.0.11 (4 octobre 2026)** : **faire de la place en toute sécurité**. Dans l'onglet Windows, sous
-> Entretien, Aurora trouve les copies exactes de tes fichiers, comparées octet pour octet : elle te propose la copie à
-> garder, c'est toi qui coches, et tout part à la corbeille, jamais effacé pour de bon. Peu de doublons ? Elle te
-> montre ce qui remplit vraiment ton disque, jusqu'aux jeux que tu n'as pas lancés depuis trois mois. L'onglet Windows
-> a maintenant trois sous-onglets : Réglages, Mises à jour, Entretien. La licence passe à la version 4.
+> **Aurora 1.0.12 (5 octobre 2026)** : **des ventilateurs qui ne disparaissent plus**. Si un autre logiciel de
+> capteurs (TRCC, HWiNFO, MSI Center…) occupe la carte mère au démarrage, Aurora cherche tes ventilateurs de nouveau,
+> d'elle-même, et la tuile te dit pourquoi. Les moteurs des capteurs sont à jour (LibreHardwareMonitor, PresentMon
+> 2.6.0), les pompes des cartes ASRock et Gigabyte ne sont jamais ralenties, et le site a maintenant une page
+> Confidentialité.
 >
-> Depuis la 1.0.10 : les mises à jour de Windows en clair et le rapport pour ton technicien. Depuis la 1.0.9 : les
-> skins et un tableau de bord fluide. Depuis la 1.0.8 : l'onglet Windows relu de fond en comble.
+> Depuis la 1.0.11 : les fichiers en double, en toute sécurité. Depuis la 1.0.10 : les mises à jour de Windows en clair
+> et le rapport pour ton technicien. Depuis la 1.0.9 : les skins et un tableau de bord fluide.
 > Le site : **https://auroraapp.ca**
 
 Aurora est un moniteur matériel pour Windows : températures, charge du processeur et de la carte
@@ -23,7 +23,9 @@ Ce dépôt sert seulement à **diffuser les versions**. Il contient :
 ## Installer ou mettre à jour
 
 1. Ouvre la [dernière version](https://github.com/Neurogis44/aurora-mises-a-jour/releases/latest)
-   et télécharge `Aurora-Setup-<version>.exe`.
+   et télécharge `Aurora-Setup-<version>.exe` (`Aurora-Setup.exe`, à côté, est le même fichier sous un nom fixe :
+   [ce lien](https://github.com/Neurogis44/aurora-mises-a-jour/releases/latest/download/Aurora-Setup.exe) donne
+   toujours la dernière version).
 2. L'installeur est **signé électroniquement** : Windows affiche « Éditeur vérifié : Denis Desbiens ».
    Une version toute neuve peut encore déclencher SmartScreen les premiers jours : clique
    **Informations complémentaires**, vérifie le nom de l'éditeur, puis **Exécuter quand même**. Au téléchargement,

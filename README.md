@@ -1,13 +1,14 @@
 # Aurora — mises à jour
 
-> **Aurora 1.0.12 (5 octobre 2026)** : **des ventilateurs qui ne disparaissent plus**. Si un autre logiciel de
-> capteurs (TRCC, HWiNFO, MSI Center…) occupe la carte mère au démarrage, Aurora cherche tes ventilateurs de nouveau,
-> d'elle-même, et la tuile te dit pourquoi. Les moteurs des capteurs sont à jour (LibreHardwareMonitor, PresentMon
-> 2.6.0), les pompes des cartes ASRock et Gigabyte ne sont jamais ralenties, et le site a maintenant une page
-> Confidentialité.
+> **Aurora 1.0.13 (9 octobre 2026)** : **la grande revue**. Tout le code ajouté depuis la 1.0.9 relu avant de
+> présenter Aurora au monde : plus de 70 corrections. Ta pompe toujours protégée, les fichiers en double qui regardent
+> enfin OneDrive (jamais les autres comptes du PC), Windows bien suivi (Aurora te dit quand ta version n'est plus
+> suivie par Microsoft), un rapport pour ton technicien plus discret, et un bandeau de mise à jour qui revient chaque
+> jour tant qu'elle n'est pas installée.
 >
-> Depuis la 1.0.11 : les fichiers en double, en toute sécurité. Depuis la 1.0.10 : les mises à jour de Windows en clair
-> et le rapport pour ton technicien. Depuis la 1.0.9 : les skins et un tableau de bord fluide.
+> Depuis la 1.0.12 : des ventilateurs qui ne disparaissent plus. Depuis la 1.0.11 : les fichiers en double, en toute
+> sécurité. Depuis la 1.0.10 : les mises à jour de Windows en clair et le rapport pour ton technicien. Depuis la
+> 1.0.9 : les skins et un tableau de bord fluide.
 > Le site : **https://auroraapp.ca**
 
 Aurora est un moniteur matériel pour Windows : températures, charge du processeur et de la carte

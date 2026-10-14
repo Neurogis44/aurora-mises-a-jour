@@ -1,14 +1,12 @@
 # Aurora — mises à jour
 
-> **Aurora 1.0.14 (11 octobre 2026)** : **la batterie de ton casque**. Quand le son sort par un casque, des écouteurs
-> ou une enceinte Bluetooth, sa batterie s'affiche dans le panneau Multimédia, et une notification te prévient sous
-> 15 %. Dans l'onglet Santé, ce que tu connais déjà se retire d'un clic (et revient si ça empire) ; tes noms de
-> ventilateurs tiennent quand une prise change de nom ; et tout le code d'Aurora a été rangé, pour qu'elle reste
-> solide longtemps.
+> **Aurora 2.0.0 (14 octobre 2026)** : **la plus grosse version d'Aurora**. Un essai de stabilité qui vérifie
+> chaque calcul, comme OCCT ; le temps d'image de tes parties, avec ses saccades et son 0,1 % bas ; les gels que
+> Windows a vus ; tes disques, chaque cœur, ta carte mère et ta carte graphique en détail ; l'overlay des
+> passionnés ; et Aura, la mascotte d'Aurora.
 >
-> Depuis la 1.0.13 : la grande revue. Depuis la 1.0.12 : des ventilateurs qui ne disparaissent plus. Depuis la
-> 1.0.11 : les fichiers en double, en toute sécurité. Depuis la 1.0.10 : les mises à jour de Windows en clair et le
-> rapport pour ton technicien.
+> Depuis la 1.0.14 : la batterie de ton casque. Depuis la 1.0.13 : la grande revue. Depuis la 1.0.12 : des
+> ventilateurs qui ne disparaissent plus. Depuis la 1.0.11 : les fichiers en double, en toute sécurité.
 > Le site : **https://auroraapp.ca**
 
 Aurora est un moniteur matériel pour Windows : températures, charge du processeur et de la carte

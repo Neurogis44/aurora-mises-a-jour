@@ -1,11 +1,10 @@
 # Aurora — mises à jour
 
-> **Aurora 2.0.0 (14 octobre 2026)** : **la plus grosse version d'Aurora**. Un essai de stabilité qui vérifie
-> chaque calcul, comme OCCT ; le temps d'image de tes parties, avec ses saccades et son 0,1 % bas ; les gels que
-> Windows a vus ; tes disques, chaque cœur, ta carte mère et ta carte graphique en détail ; l'overlay des
-> passionnés ; et Aura, la mascotte d'Aurora.
+> **Aurora 2.1.0 (18 octobre 2026)** : **Aurora répond à tes questions**. Ta semaine, chaque lundi ; pourquoi
+> ton PC est lent ; qui le réveille la nuit ; si tes fichiers sont à l'abri ; le mode nuit des ventilateurs ; et
+> « Vérifier tout le PC », pour un PC neuf, réparé ou acheté usagé.
 >
-> Depuis la 1.0.14 : la batterie de ton casque. Depuis la 1.0.13 : la grande revue. Depuis la 1.0.12 : des
+> Depuis la 2.0.0 : l'essai de stabilité, le temps d'image et Aura. Depuis la 1.0.14 : la batterie de ton casque. Depuis la 1.0.13 : la grande revue. Depuis la 1.0.12 : des
 > ventilateurs qui ne disparaissent plus. Depuis la 1.0.11 : les fichiers en double, en toute sécurité.
 > Le site : **https://auroraapp.ca**
 

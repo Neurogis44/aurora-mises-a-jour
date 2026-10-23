@@ -1,10 +1,9 @@
 # Aurora — mises à jour
 
-> **Aurora 2.1.0 (18 octobre 2026)** : **Aurora répond à tes questions**. Ta semaine, chaque lundi ; pourquoi
-> ton PC est lent ; qui le réveille la nuit ; si tes fichiers sont à l'abri ; le mode nuit des ventilateurs ; et
-> « Vérifier tout le PC », pour un PC neuf, réparé ou acheté usagé.
+> **Aurora 2.2.0 (23 octobre 2026)** : **Aurora s'adapte à toi**. Le texte plus gros, à 125, 150 ou 200 % ;
+> Aurora dans une petite fenêtre ; et l'overlay dans RivaTuner, pour le plein écran exclusif.
 >
-> Depuis la 2.0.0 : l'essai de stabilité, le temps d'image et Aura. Depuis la 1.0.14 : la batterie de ton casque. Depuis la 1.0.13 : la grande revue. Depuis la 1.0.12 : des
+> Depuis la 2.1.0 : Aurora répond à tes questions. Depuis la 2.0.0 : l'essai de stabilité, le temps d'image et Aura. Depuis la 1.0.14 : la batterie de ton casque. Depuis la 1.0.13 : la grande revue. Depuis la 1.0.12 : des
 > ventilateurs qui ne disparaissent plus. Depuis la 1.0.11 : les fichiers en double, en toute sécurité.
 > Le site : **https://auroraapp.ca**
 

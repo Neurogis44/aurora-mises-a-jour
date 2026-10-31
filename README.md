@@ -1,9 +1,9 @@
 # Aurora — mises à jour
 
-> **Aurora 2.2.0 (23 octobre 2026)** : **Aurora s'adapte à toi**. Le texte plus gros, à 125, 150 ou 200 % ;
-> Aurora dans une petite fenêtre ; et l'overlay dans RivaTuner, pour le plein écran exclusif.
+> **Aurora 2.3.0 (31 octobre 2026)** : **Aura sort d'Aurora**. Si tu le veux, elle vient vivre sur ton bureau : ton PC
+> d'un coup d'œil, elle te fait signe quand ça chauffe, danse sur ta musique et fait le bilan de tes parties.
 >
-> Depuis la 2.1.0 : Aurora répond à tes questions. Depuis la 2.0.0 : l'essai de stabilité, le temps d'image et Aura. Depuis la 1.0.14 : la batterie de ton casque. Depuis la 1.0.13 : la grande revue. Depuis la 1.0.12 : des
+> Depuis la 2.2.0 : Aurora s'adapte à toi. Depuis la 2.1.0 : Aurora répond à tes questions. Depuis la 2.0.0 : l'essai de stabilité, le temps d'image et Aura. Depuis la 1.0.14 : la batterie de ton casque. Depuis la 1.0.13 : la grande revue. Depuis la 1.0.12 : des
 > ventilateurs qui ne disparaissent plus. Depuis la 1.0.11 : les fichiers en double, en toute sécurité.
 > Le site : **https://auroraapp.ca**
 
